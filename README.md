@@ -5,7 +5,7 @@ This is a Newsetter Web App, I've integrated it with MailChimp API. Here I explo
 > Nishkarsh Dubb
 
 ## Screenshots 📷
-![Web App]()
+![Web App](screenshots/1.png)
 
 ## Live Demo 
 

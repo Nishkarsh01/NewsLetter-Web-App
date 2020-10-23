@@ -11,6 +11,33 @@ This is a Newsetter Web App, I've integrated it with MailChimp API. Here I explo
 
  [https://newletter-nishkarshdubb.herokuapp.com/](https://newletter-nishkarshdubb.herokuapp.com/)
 
+## Developed Using 💻
+
++ [Html](https://developer.mozilla.org/en-US/docs/Web/HTML)
++ [Css](https://developer.mozilla.org/en-US/docs/Web/CSS)
++ [Bootstrap](https://getbootstrap.com/)
++ [Javascript](https://developer.mozilla.org/en-US/docs/Web/javascript)
++ [Nodejs](https://nodejs.org/en/)
++ [Express](http://expressjs.com/)
+
+
+## Installation or Getting Started
+
+Run the following command in the terminal:
+
+	git clone https://github.com/Nishkarsh01/NewLetter-Project.git
+or download the zip file from github.
+    
+
+## Usage
+After extracting the files,
+
+    cd NewLetter-Project
+    npm install 
+    node app.js
+
+
+
 
     
 

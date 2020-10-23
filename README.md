@@ -25,14 +25,14 @@ This is a Newsetter Web App, I've integrated it with MailChimp API. Here I explo
 
 Run the following command in the terminal:
 
-	git clone https://github.com/Nishkarsh01/NewLetter-Project.git
+	git clone https://github.com/Nishkarsh01/NewsLetter-Web-App.git
 or download the zip file from github.
     
 
 ## Usage
 After extracting the files,
 
-    cd NewLetter-Project
+    cd NewsLetter-Web-App
     npm install 
     node app.js
 

@@ -2,7 +2,7 @@
 This is a Newsetter Web App, I've integrated it with MailChimp API. Here I explored how to work with their API and how to POST data and communicate with their servers.
 
 ## Author 
-> Nishkarsh01
+> Nishkarsh Dubb
 
 ## Screenshots 📷
 ![Web App](screenshots/1.png)
